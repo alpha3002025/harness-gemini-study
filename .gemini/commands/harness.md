@@ -85,7 +85,7 @@
 
 #### D-3. `phases/{task-name}/step{N}.md` (각 step마다 1개)
 
-```markdown
+````markdown
 # Step {N}: {이름}
 
 ## 읽어야 할 파일
@@ -127,7 +127,7 @@ npm test        # 테스트 통과
 
 - {이 step에서 하지 말아야 할 것. "X를 하지 마라. 이유: Y" 형식}
 - 기존 테스트를 깨뜨리지 마라
-```
+````
 
 ### E. 실행
 
